@@ -16,7 +16,8 @@ public class JFrameMio extends javax.swing.JFrame {
     /**
      * Creates new form JFrameMio
      */
-    JDialogMensaje jDialogMensaje;
+    JDialogMensaje jDialogMensaje; //Hola
+   
     public JFrameMio(  ) {
         initComponents();
     }
